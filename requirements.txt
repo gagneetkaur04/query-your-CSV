@@ -5,17 +5,11 @@ langchain-community==0.0.28
 langchain-core>=0.1.35
 langchain-experimental==0.0.54
 langchain-google-genai==0.0.11
-langchain-text-splitters==0.0.1
 langsmith==0.1.27
-markdown-it-py==3.0.0
 matplotlib==3.8.3
 numpy==1.26.4
 pandas==2.2.1
-pydantic==2.6.4
 python-dotenv==1.0.1
-PyYAML==6.0.1
-requests==2.31.0
 seaborn==0.13.2
-SQLAlchemy==2.0.28
 streamlit==1.32.2
 toml==0.10.2
